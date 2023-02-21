@@ -14,10 +14,11 @@
 ![image](https://user-images.githubusercontent.com/74931542/220342763-b5ab4c39-cf65-4944-9b64-1725dfa62d35.png)
 <br/><br/>
 • Afișarea tuturor punctelor de interes din comuna Trento <br/><br/>
-![image](https://user-images.githubusercontent.com/74931542/220343726-f9b0661e-648a-4000-8479-199530184eef.png)
-![image](https://user-images.githubusercontent.com/74931542/220343519-15bafd1b-55b1-4119-a385-dca28ce85804.png)
+![image](https://user-images.githubusercontent.com/74931542/220346571-d6b9d346-28b3-4104-be6e-c35814baa943.png)
+![image](https://user-images.githubusercontent.com/74931542/220346647-9c50c4dc-0bb2-428d-97de-0803a8fe5828.png)
 <br/><br/>
 • Afișarea benzinăriilor din comuna Trento <br/><br/>
 ![image](https://user-images.githubusercontent.com/74931542/220346194-fdbb27de-cb1a-4499-b02e-ff79adf0b31a.png)
 <br/><br/>
-• Afișarea benzinăriilor din comuna Trento situate la maxim 2 km de drumul Via del Brennero <br/><br/>
+• Afișarea benzinăriilor din comuna Trento situate la maxim 2 km de drumul lung'Adige Giacomo Leopardi <br/><br/>
+![image](https://user-images.githubusercontent.com/74931542/220347531-d3442a0d-d23e-493f-8075-27232544f097.png)
