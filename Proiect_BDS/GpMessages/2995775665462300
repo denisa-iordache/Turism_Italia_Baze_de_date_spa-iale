@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: vineri, 4 noiembrie 2022 08:24:06</msg><msg code="0" type="0">comune_PuncteInTrento</msg><msg code="0" type="0">points</msg><msg code="0" type="0">World Topographic Map</msg><msg code="0" type="0">World Hillshade</msg><msg code="0" type="0">comune_PuncteInTrento</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\Simbologie.py", line 124, in &lt;module&gt;
+    ScriptTool(in_pct_sel=sel_loc)
+  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\Simbologie.py", line 33, in ScriptTool
+    itm.values[0][0].size=3
+AttributeError: 'str' object has no attribute 'size'
+</msg><msg code="0" type="0">Failed script (null)...</msg><msg code="-2147467259" type="100">Failed to execute (SimbologiePuncteComuna).</msg><msg code="0" type="3">Failed at vineri, 4 noiembrie 2022 08:24:08 (Elapsed Time: 2,05 seconds)</msg></messages>

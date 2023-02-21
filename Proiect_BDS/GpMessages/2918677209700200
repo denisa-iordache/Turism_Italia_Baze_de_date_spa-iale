@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: joi, 3 noiembrie 2022 10:59:12</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\PuncteComune.py", line 54, in &lt;module&gt;
+    sel_loc_dupa_drum(in_drumuri=comune,
+TypeError: sel_loc_dupa_drum() got an unexpected keyword argument 'in_drumuri'
+</msg><msg code="0" type="0">Failed script (null)...</msg><msg code="-2147467259" type="100">Failed to execute (PuncteInComune).</msg><msg code="0" type="3">Failed at joi, 3 noiembrie 2022 10:59:12 (Elapsed Time: 0,11 seconds)</msg></messages>

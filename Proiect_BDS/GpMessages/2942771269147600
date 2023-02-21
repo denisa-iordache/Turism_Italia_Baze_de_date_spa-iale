@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: joi, 3 noiembrie 2022 17:40:43</msg><msg code="-2147467259" type="100">  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\PuncteComune.py", line 49
+    comune = arcpy.GetParameterAsText(0)s
+                                        ^
+SyntaxError: invalid syntax
+</msg><msg code="0" type="0">Failed script (null)...</msg><msg code="-2147467259" type="100">Failed to execute (PuncteInComune).</msg><msg code="0" type="3">Failed at joi, 3 noiembrie 2022 17:40:43 (Elapsed Time: 0,06 seconds)</msg></messages>

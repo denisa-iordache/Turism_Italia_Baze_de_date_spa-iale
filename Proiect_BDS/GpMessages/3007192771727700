@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: vineri, 4 noiembrie 2022 11:34:24</msg><msg code="0" type="0">Se genereaza layerul comune</msg><msg code="0" type="0">Se genereaza layerul puncte</msg><msg code="0" type="0">Se genereaza layerul caiFerate</msg><msg code="0" type="0">Se selecteaza punctele dupa clauza COMUNE = 'Rimini'</msg><msg code="0" type="0">Se selecteaza punctele de interes din comuna selectata</msg><msg code="0" type="0">Se genereaza layerul puncte de interes selectate</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\PuncteComune.py", line 85, in &lt;module&gt;
+    sel_loc_dupa_drum(in_comune=comune,
+  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\PuncteComune.py", line 60, in sel_loc_dupa_drum
+    arcpy.CopyFeatures_management(in_features=drumuri_com, out_feature_class=out_roads_sel)
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 4323, in CopyFeatures
+    raise e
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 4320, in CopyFeatures
+    retval = convertArcObjectToPythonObject(gp.CopyFeatures_management(*gp_fixargs((in_features, out_feature_class, config_keyword, spatial_grid_1, spatial_grid_2, spatial_grid_3), True)))
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 512, in &lt;lambda&gt;
+    return lambda *args: val(*gp_fixargs(args, True))
+arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000735: Output Feature Class: Value is required
+Failed to execute (CopyFeatures).
+
+</msg><msg code="0" type="0">Failed script (null)...</msg><msg code="-2147467259" type="100">Failed to execute (PuncteInComune).</msg><msg code="0" type="3">Failed at vineri, 4 noiembrie 2022 11:34:25 (Elapsed Time: 1,44 seconds)</msg></messages>

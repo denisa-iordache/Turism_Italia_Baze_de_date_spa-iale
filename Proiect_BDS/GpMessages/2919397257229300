@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: joi, 3 noiembrie 2022 11:11:12</msg><msg code="0" type="0">Se genereaza layerul comune</msg><msg code="0" type="0">Se genereaza layerul puncte</msg><msg code="0" type="0">Se selecteaza punctele dupa clauza COMUNE = 'Abriola'</msg><msg code="0" type="0">Se selecteaza punctele de interes din comuna selectata</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\PuncteComune.py", line 54, in &lt;module&gt;
+    sel_loc_dupa_drum(in_comune=comune,
+  File "D:\SCOALA\Master Semestrul 1\M3 - BD Spatiale\Seminar\Proiect\Proiect_BDS\PuncteComune.py", line 29, in sel_loc_dupa_drum
+    arcpy.SelectLayerByLocation_management(in_layer=puncte_,
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 10932, in SelectLayerByLocation
+    raise e
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 10929, in SelectLayerByLocation
+    retval = convertArcObjectToPythonObject(gp.SelectLayerByLocation_management(*gp_fixargs((in_layer, overlap_type, select_features, search_distance, selection_type, invert_spatial_relationship), True)))
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 512, in &lt;lambda&gt;
+    return lambda *args: val(*gp_fixargs(args, True))
+arcgisscripting.ExecuteError: ERROR 000561: Relationship invalid for selected layers.
+Failed to execute (SelectLayerByLocation).
+
+</msg><msg code="0" type="0">Failed script (null)...</msg><msg code="-2147467259" type="100">Failed to execute (PuncteInComune).</msg><msg code="0" type="3">Failed at joi, 3 noiembrie 2022 11:11:13 (Elapsed Time: 1,18 seconds)</msg></messages>
